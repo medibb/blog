@@ -289,4 +289,32 @@ Total 34 (delta 13), reused 0 (delta 0)[0K
    96183d0..0146448  master -> master[0K
 [0K[?25h[?25l
 [0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "hdisqus add"[0K[11G[?25h[30G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "hdisqus add"[0K[11G[?25h[30G[?25l$ git add .[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/4E173435/sources/prop/13A0C7D2.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/4E173435/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/4E173435/sources/s-E2AE93B1/23F4DA62.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[3G[?25h[12G[?25l$ git push[0K[?25h[?25l$ git commit -m "hdisqus add"[0K[?25h[29G[?25l$ git commit -m "hdisqus ad"[0K[28G[?25h[?25l$ git commit -m "hdisqus a"[0K[27G[?25h[?25l$ git commit -m "hdisqus "[0K[26G[?25h[?25l$ git commit -m "hdisqus"[0K[25G[?25h[?25l$ git commit -m "hdisqu"[0K[24G[?25h[?25l$ git commit -m "hdisq"[0K[23G[?25h[?25l$ git commit -m "hdis"[0K[22G[?25h[?25l$ git commit -m "hdi"[0K[21G[?25h[?25l$ git commit -m "hd"[0K[20G[?25h[?25l$ git commit -m "h"[0K[19G[?25h[?25l$ git commit -m ""[0K[?25h[18G[?25l$ git commit -m "d"[0K[19G[?25h[?25l$ git commit -m "di"[0K[20G[?25h[?25l$ git commit -m "dis"[0K[21G[?25h[?25l$ git commit -m "disq"[0K[22G[?25h[?25l$ git commit -m "disqu"[0K[23G[?25h[?25l$ git commit -m "disqus"[0K[24G[?25h[?25l$ git commit -m "disqus "[0K[25G[?25h[?25l$ git commit -m "disqus p"[0K[25G[?25h[26G[?25l$ git commit -m "disqus pl"[0K[27G[?25h[?25l$ git commit -m "disqus plz"[0K[28G[?25h[?25l$ git commit -m "disqus pl"[0K[27G[?25h[?25l$ git commit -m "disqus p"[0K[26G[?25h[?25l$ git commit -m "disqus "[0K[25G[?25h[?25l$ git commit -m "disqus a"[0K[26G[?25h[?25l$ git commit -m "disqus ad"[0K[27G[?25h[?25l$ git commit -m "disqus add"[0K[28G[?25h[?25l$ git commit -m "disqus add "[0K[29G[?25h[?25l$ git commit -m "disqus add a"[0K[30G[?25h[?25l$ git commit -m "disqus add ag"[0K[31G[?25h[?25l$ git commit -m "disqus add aga"[0K[32G[?25h[?25l$ git commit -m "disqus add agai"[0K[33G[?25h[?25l$ git commit -m "disqus add again"[0K[34G[?25h[?25l$ git commit -m "disqus add againg"[0K[35G[?25h[?25l$ git commit -m "disqus add again"[0K[34G[?25h[?25l
+[0K[?25h[master 3e6d73f] disqus add again[0K[?25l
+ 6 files changed, 64 insertions(+), 3 deletions(-)[0K
+ create mode 100644 _includes/disqus_comments.html[0K
+[0K[?25h[?25l
+[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "disqus add again"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push[0K[?25h[?25l
+[0K[?25hEnumerating objects: 31, done.[0K[?25l
+Counting objects: 100% (31/31), done.[0K
+Delta compression using up to 6 threads[0K
+Compressing objects:  86% (13/15)[0K[1G[?25hCompressing objects: 100% (15/15), done.[0K[?25l
+Writing objects: 100% (17/17), 2.38 KiB | 812.00 KiB/s, done.[0K
+Total 17 (delta 9), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  44% (4/9)[0K[1G[?25hremote: Resolving deltas: 100% (9/9), completed with 9 local objects.[0K[?25l
+[0K[?25hTo https://github.com/medibb/blog[0K[?25l
+   0146448..3e6d73f  master -> master[0K
+[0K[?25h[?25l
+[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h
