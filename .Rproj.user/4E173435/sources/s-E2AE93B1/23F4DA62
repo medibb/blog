@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "23F4DA62",
-    "lastKnownWriteTime" : 1558685207,
-    "last_content_update" : 1558685207416,
+    "lastKnownWriteTime" : 1558685671,
+    "last_content_update" : 1558685671306,
     "path" : "~/project/blog/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "28,52",
-        "scrollLine" : "20"
+        "cursorPosition" : "5,18",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

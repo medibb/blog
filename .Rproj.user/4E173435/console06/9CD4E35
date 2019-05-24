@@ -196,4 +196,61 @@ Total 56 (delta 27), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "set url"[0K[?25h[?25l$ git add .[0K[?25h[?25l
-[0K[?25h
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/4E173435/sources/prop/13A0C7D2.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/4E173435/sources/s-E2AE93B1/23F4DA62.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/4E173435/sources/s-E2AE93B1/23F4DA62-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/2015/01/01/lorem-ipsum/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/2015/07/23/hello-r-markdown/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/2016/12/30/a-plain-markdown-post/index.html.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in docs/2019/05/24/musculoskeletal-rehabilitation/index.html.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/about/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/categories/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/categories/index.xml.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in docs/categories/r/index.html.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/post/index.html.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in docs/sitemap.xml.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/tags/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/tags/index.xml.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/tags/plot/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/tags/r-markdown/index.html.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in docs/tags/regression/index.html.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add .[0K[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "set url"[0K[?25h[25G[?25l$ git commit -m "set ur"[0K[24G[?25h[?25l$ git commit -m "set u"[0K[?25h[23G[?25l$ git commit -m "set "[0K[22G[?25h[?25l$ git commit -m "set"[0K[21G[?25h[?25l$ git commit -m "se"[0K[?25h[20G[?25l$ git commit -m "s"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "h"[0K[19G[?25h[?25l$ git commit -m "hㄷ"[0K[21G[?25h[?25l$ git commit -m "hㄷㅅ"[0K[23G[?25h[?25l$ git commit -m "hㄷㅅ샤"[0K[25G[?25h[?25l$ git commit -m "hㄷㅅ샤ㅎ "[0K[28G[?25h[?25l$ git commit -m "hㄷㅅ샤ㅎ"[0K[27G[?25h[?25l$ git commit -m "hㄷㅅ샤 "[0K[26G[?25h[?25l$ git commit -m "hㄷㅅ샤"[0K[25G[?25h[?25l$ git commit -m "hㄷㅅ "[0K[?25h[24G[?25l$ git commit -m "hㄷㅅ"[0K[23G[?25h[?25l$ git commit -m "hㄷ "[0K[22G[?25h[?25l$ git commit -m "hㄷ"[0K[21G[?25h[?25l$ git commit -m "h "[0K[?25h[20G[?25l$ git commit -m "h"[0K[19G[?25h[?25l$ git commit -m ""[0K[18G[?25h[?25l$ git commit -m "s"[0K[19G[?25h[?25l$ git commit -m "se"[0K[20G[?25h[?25l$ git commit -m "set"[0K[21G[?25h[?25l$ git commit -m "sett"[0K[22G[?25h[?25l$ git commit -m "setti"[0K[23G[?25h[?25l$ git commit -m "settin"[0K[24G[?25h[?25l$ git commit -m "setting"[0K[25G[?25h[?25l$ git commit -m "setting "[0K[26G[?25h[?25l$ git commit -m "setting c"[0K[27G[?25h[?25l$ git commit -m "setting ch"[0K[28G[?25h[?25l$ git commit -m "setting cha"[0K[29G[?25h[?25l$ git commit -m "setting chan"[0K[30G[?25h[?25l$ git commit -m "setting chang"[0K[31G[?25h[?25l$ git commit -m "setting change"[0K[32G[?25h[33G[?25l
+[0K[?25h[master 96183d0] hㄷsetting change[0K[?25l
+ 27 files changed, 299 insertions(+), 234 deletions(-)[0K
+[0K[?25h[?25l
+[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "hㄷsetting change"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push[0K[?25h[?25l
+[0K[?25hEnumerating objects: 111, done.[0K[?25l
+Counting objects:  61% (68/111)[0K[1G[?25hCounting objects: 100% (111/111), done.[0K[?25l
+Delta compression using up to 6 threads[0K
+Compressing objects:  88% (39/44)[0K[1G[?25hCompressing objects: 100% (44/44), done.[0K[?25l
+Writing objects: 100% (58/58), 6.65 KiB | 425.00 KiB/s, done.[0K
+Total 58 (delta 29), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  13% (4/29)[0K[1G[?25h[?25lremote: Resolving deltas:  17% (5/29)[0K[1G[?25hremote: Resolving deltas: 100% (29/29), completed with 18 local objects.[0K[?25l
+[0K[?25hTo https://github.com/medibb/blog[0K[?25l
+   a3ed3d3..96183d0  master -> master[0K
+[0K[?25h[?25l
+[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0m[0K[1G[?25h[0;32mMZFS@DESKTOP-1B09D6T [0;35m [0;33m~/Documents/project/blog[0;36m (master)[0m[0K[?25l
+$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "hㄷsetting change"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git push[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git commit -m "hㄷsetting change"[0K[?25h[?25l$ git push[0K[?25h[?25l$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l$ git commit -m "hㄷsetting change"[0K[?25h[?25l$ git add .[0K[?25h
