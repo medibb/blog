@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on A Hugo website</title>
+    <title>R on 근골격계 재활의학</title>
     <link>https://medibb.github.io/blog/categories/r/</link>
-    <description>Recent content in R on A Hugo website</description>
+    <description>Recent content in R on 근골격계 재활의학</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko-KR</language>
     <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://medibb.github.io/blog/categories/r/index.xml" rel="self" type="application/rss+xml" />
