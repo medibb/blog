@@ -9,4 +9,4 @@ tags:
   - R Markdown
 ---
 
-This is the blog for MSK rehabilitation
+근골격계 재활의학에 대한 test blog 입니다.
